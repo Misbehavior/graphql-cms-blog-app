@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Loader = () => (
+export const Loader = () => (
   <div className="text-center">
     <button
       type="button"
