@@ -38,3 +38,5 @@ next-env.d.ts
 #files 
 pages/api/graphcmsTokenKey.js
 pages/api/graphqApiKey.js
+TokenKey.js
+ApiKey.js
