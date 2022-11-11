@@ -8,15 +8,22 @@ You can view this project [here](https://graphql-cms-blog-app.netlify.app).
 
 ## Built using:
 
-- React
-- NextJS
-- GraphQL
-- GraphCMS
-- Moment
-- React-Multi-Carousel
-- Sass
-- Tailwind CSS
-- Apollo Client
+Front end:
+
+- [React](https://reactjs.org)
+- [NextJS](https://nextjs.org)
+- [GraphQL](https://graphql.org)
+- [GraphCMS](https://hygraph.com)
+- [Moment](https://momentjs.com)
+- [React-Multi-Carousel](https://www.npmjs.com/package/react-multi-carousel)
+- [Sass](https://sass-lang.com)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Apollo Client](https://www.npmjs.com/package/@apollo/client)
+
+
+Deployment:
+
+* [Netlify](https://www.netlify.com)
 
 ## Setup
 
