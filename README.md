@@ -10,8 +10,8 @@ You can view this project [here](https://graphql-cms-blog-app.netlify.app).
 
 Front end:
 
-- [React](https://reactjs.org)
-- [NextJS](https://nextjs.org)
+- [React.js](https://reactjs.org)
+- [Next.js](https://nextjs.org)
 - [GraphQL](https://graphql.org)
 - [GraphCMS](https://hygraph.com)
 - [Moment](https://momentjs.com)
